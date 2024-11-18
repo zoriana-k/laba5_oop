@@ -1,0 +1,12 @@
+﻿  customer.cpp
+  employeer.cpp
+  manager.cpp
+  oop_lab5.cpp
+C:\Users\UserHome\source\repos\oop_lab5\oop_lab5\oop_lab5.cpp(75,5): warning C4286: 'const std::ios_base::failure &': is caught by base class ('const std::runtime_error &') on line 72
+  person.cpp
+  project.cpp
+  projectController.cpp
+  team.cpp
+  teamLeader.cpp
+  Generating Code...
+  oop_lab5.vcxproj -> C:\Users\UserHome\source\repos\oop_lab5\x64\Debug\oop_lab5.exe
